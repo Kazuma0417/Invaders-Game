@@ -16,12 +16,12 @@
     ```
 3.  このリポジトリをクローンまたはダウンロードします。
     ```bash
-    git clone [https://github.com/YourUsername/YourGameRepo.git](https://github.com/YourUsername/YourGameRepo.git)
-    cd YourGameRepo
+    git clone [https://github.com/Kazuma0417/Invaders-Game.git](https://github.com/Kazuma0417/Invaders-Game.git)
+    cd Invaders-Game
     ```
 4.  ゲームを実行します。
     ```bash
-    python sample.py
+    python main.py
     ```
 
 ## 必要なファイル
